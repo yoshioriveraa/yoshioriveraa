@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Yoshio Rivera 👋
-![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/c25aa261-af5d-45b1-8330-020afc56ccd7)
+![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/621ab4a8-3e0a-401a-b418-3a0d68678660)
 
 
 #### Programador Jr.
