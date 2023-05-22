@@ -1,11 +1,13 @@
 ### Hola, mi nombre es Yoshio Rivera ⚡
 
 ### Contactos
-![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/d1c9b0f2-a84a-49e6-87f4-79d9cc84d784)
+
 
 
 ### Skills
 #### Lenguajes
+![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/80f58cda-9826-4aa4-9747-ea936610f7f7) ![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/7ea1dd11-6027-483a-ba3e-dd9e352a6dce)
+
 <!--
 **yoshioriveraa/yoshioriveraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
