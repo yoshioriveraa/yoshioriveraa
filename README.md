@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Yoshio Rivera 👋
-#### Programador Jr.
+#### *Programador Jr.*
 'print("Hola")'
 ### Contactos
 
