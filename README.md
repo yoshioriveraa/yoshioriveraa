@@ -1,4 +1,3 @@
-![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/afc42081-1211-4d01-8675-f45b9df8f1ff)
 # Hola, mi nombre es Yoshio Rivera 👋 
 
 Soy un joven peruano con ganas de aprender los conocimientos del mundo de los Datos e interés sobre modelos predictivos con Estadística y Python. 🇵🇪  
@@ -22,7 +21,7 @@ En proceso de la creación del curso gratuito de Python en **GitHub** y **Youtub
 - Introducción a las habilidades profesionales de Análisis de Datos
 - Voluntariado de Formación Educativa Gratuita  
 
-
+![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/afc42081-1211-4d01-8675-f45b9df8f1ff)
 
 <!--
 **yoshioriveraa/yoshioriveraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
