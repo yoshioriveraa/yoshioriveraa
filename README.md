@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Yoshio Rivera 👋
-![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/8834834b-81cc-4a37-a96a-13d4b40709f0)
+![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/3d67b1f7-0d22-44fa-b9a5-945a58241050)
 
-##### Programador Jr.
+#### Programador Jr.
 Soy un estudiante autodidacta de Data Science.
 
 En 2021, empecé a dictar clases en un voluntariado para niños con escazos recursos en PROA - Perú 🇵🇪
