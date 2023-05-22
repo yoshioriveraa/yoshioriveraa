@@ -17,10 +17,10 @@ En proceso de la creación del curso gratuito de Python en **GitHub** y **Youtub
 ![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/9ff23e86-fe51-405e-a633-9b4578a7820c)
 
 ### Certificaciones ✨
-*Programa de especialziación en Python for Data Science * 
-*Programa de Especialización de Web Scraping con R  *
-*Introducción a las habilidades profesionales de Análisis de Datos*
-*Voluntariado de Formación Educativa Gratuita  *
+- Programa de especialziación en Python for Data Science
+- Programa de Especialización de Web Scraping con R  
+- Introducción a las habilidades profesionales de Análisis de Datos
+- Voluntariado de Formación Educativa Gratuita  
 
 
 
