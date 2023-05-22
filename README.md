@@ -1,7 +1,7 @@
 ![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/afc42081-1211-4d01-8675-f45b9df8f1ff)
 # Hola, mi nombre es Yoshio Rivera 👋
 ### Programador Jr. 
-Soy un estudiante autodidacta de Data Science.
+Soy un estudiante autodidacta de Data Science.  
 En 2021, empecé a dictar clases en un voluntariado para niños con escazos recursos en PROA - Perú 🇵🇪
 En 2022, dicte clases gratuitas de programación con Python, creando un grupo de Comunidad Python con 150 estudiantes.
 En 2023, crearé mi curso grauito de Python en GitHub y Youtube.
