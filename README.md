@@ -1,6 +1,6 @@
-## Hola, mi nombre es Yoshio Rivera 👋
-![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/be41b204-4660-45d1-bc23-e70af0e574ff)
 
+![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/6ad84c61-72a1-4f26-83cd-20c3fa427c4a)
+## Hola, mi nombre es Yoshio Rivera 👋
 #### Programador Jr.
 Soy un estudiante autodidacta de Data Science.
 
