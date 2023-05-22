@@ -1,10 +1,13 @@
 ![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/afc42081-1211-4d01-8675-f45b9df8f1ff)
 # Hola, mi nombre es Yoshio Rivera 👋 
-**Estudiante autodidacta de Data Science.**  
 
-En 2021, empecé a dictar clases en un voluntariado para niños con escazos recursos en PROA - Perú 🇵🇪  
-En 2022, dicte clases gratuitas de programación con Python, creando un grupo de Comunidad Python con 150 estudiantes.  
-En 2023, crearé mi curso grauito de Python en GitHub y Youtube.  
+Hola, me llamo Yoshio, soy un joven peruano con ganas de aprender los conocimientos del mundo de los Datos e interés sobre modelos predictivos con Estadística y Python. 🇵🇪  
+
+Estudiante de Data Science en Perú y Argentina con conocimientos en Python (Pandas, Numpy, Matplotlib) , Base de datos (SQL), Visualización de datos con Power BI y Machine Learning.   
+
+Maestro particular, cuento con experiencia de 2 años en voluntariados (PROA), en mi Comunidad Python - Proyecto Personal Educativo (150 personas) enseñando programación gratuitamente y jóvenes en la educación primaria, secundaria y preuniversitaria.   
+ 
+En 2023, en proceso de la creación del curso gratuito de Python en GitHub y Youtube.  
 
 
 ### Skills ⚡
