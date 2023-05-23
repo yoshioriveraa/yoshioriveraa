@@ -16,7 +16,7 @@ En proceso de la creación del curso gratuito de Python en **GitHub** y **Youtub
 ![image](https://github.com/yoshioriveraa/yoshioriveraa/assets/112029157/9ff23e86-fe51-405e-a633-9b4578a7820c)
 
 ### Certificaciones ✨
-- Programa de especialización en Python for Data Science **+ 100 horas académicas**
+- Programa de Especialización en Python for Data Science **+ 100 horas académicas**
 - Programa de Especialización de Web Scraping con R  **+ 15 horas acdémicas**
 - Introducción a las habilidades profesionales de Análisis de Datos
 - Voluntariado de Formación Educativa Gratuita  
