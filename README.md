@@ -2,7 +2,7 @@
 
 Soy un joven peruano con ganas de aprender los conocimientos del mundo de los Datos e interés sobre modelos predictivos con Estadística y Python. 🇵🇪  
 
-Estudiante de **Data Science** en Perú y Argentina con conocimientos en **Python** (Pandas, Numpy, Matplotlib) , Base de datos (**SQL**), Visualización de datos con **Power BI** y **Machine Learning**.   
+Estudiante de **Data Science** en Perú y Argentina con conocimientos en **Python** (Pandas, Numpy, Matplotlib, Seaborn) , Base de datos (**SQL**), Visualización de datos con **Power BI** y **Machine Learning**.   
 
 Maestro particular, cuento con experiencia de 2 años en voluntariados (**PROA**), en mi Comunidad Python - Proyecto Personal Educativo (150 personas) enseñando programación gratuitamente y jóvenes en la educación primaria, secundaria y preuniversitaria.   
  
