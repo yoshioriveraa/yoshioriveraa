@@ -2,7 +2,7 @@ Hola, soy Yoshio Rivera, un joven peruano apasionado por el mundo de los datos y
 
 📚 Actualmente, soy estudiante de Computación Científica en la Universidad Nacional Mayor de San Marcos (UNMSM) y Computación e Informática de Zegel IPAE. Estoy comprometido en cultivar mi conocimiento y habilidades en el apasionante campo de la informática y la ciencia de datos.
 
-🧑‍🏫 Además, tengo una experiencia de 3 años como maestro particular en voluntariados y proyectos de enseñanza de programación. Durante este tiempo, he tenido el honor de compartir mis conocimientos en Python de forma gratuita con personas de diferentes países, contribuyendo a su desarrollo personal y profesional. 🌍
+🧑‍🏫 Además, tengo una experiencia de 3 años como docente académico en voluntariados y proyectos de enseñanza de programación. Durante este tiempo, he tenido el honor de compartir mis conocimientos en Python de forma profesional con personas de diferentes países, contribuyendo a su desarrollo personal y profesional. 🌍
 
 Mis habilidades incluyen:
 
