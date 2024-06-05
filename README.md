@@ -6,13 +6,13 @@ Hola, soy Yoshio Rivera, un joven peruano apasionado por el mundo de los datos y
 
 Mis habilidades incluyen:
 
-🐼 Pandas
-🔢 Numpy
-📈 Matplotlib, Seaborn
-🏛 SQL con PostgreSQL
-💼 Power BI
-📊 Estadística
-🧮 Matemática
+🐼 Pandas  
+🔢 Numpy  
+📈 Matplotlib, Seaborn  
+🏛 SQL con PostgreSQL  
+💼 Power BI  
+📊 Estadística  
+🧮 Matemática  
 
 Mi pasión por los datos me impulsa a explorar y analizar información de manera efectiva para tomar decisiones fundamentadas. Mi objetivo es seguir creciendo en este apasionante campo y colaborar en proyectos que marquen la diferencia.
 
