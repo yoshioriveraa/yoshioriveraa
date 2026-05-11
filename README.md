@@ -17,7 +17,7 @@ yoshio = {
     "ubicacion":   "Lima, Perú 🇵🇪",
     "lenguajes":   ["Python", "SQL"],
     "enfoque":     ["Análisis de datos", "Automatización de procesos", "Dashboards BI"],
-    "actualmente": "Construyendo soluciones de datos @ Men Graph S.A.C"
+    "actualmente": "Construyendo soluciones de datos"
 }
 ```
 
@@ -86,5 +86,5 @@ Tengo un canal de **YouTube y TikTok** donde enseño Python para análisis de da
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yoshiorivera&color=4285F4&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=yoshioriveraa&color=4285F4&style=flat-square" alt="Visitas al perfil" />
 </div>
