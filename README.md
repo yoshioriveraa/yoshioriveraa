@@ -63,8 +63,9 @@ yoshio = {
 
 <div align="center">
 
-![Estadísticas de Yoshio](https://github-readme-stats.vercel.app/api?username=yoshioriveraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshioriveraa&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoshioriveraa&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=yoshioriveraa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
