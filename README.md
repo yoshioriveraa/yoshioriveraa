@@ -63,8 +63,8 @@ yoshio = {
 
 <div align="center">
 
-![Estadísticas de Yoshio](https://github-readme-stats.vercel.app/api?username=yoshiorivera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiorivera&layout=compact&theme=tokyonight&hide_border=true)
+![Estadísticas de Yoshio](https://github-readme-stats.vercel.app/api?username=yoshioriveraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshioriveraa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
